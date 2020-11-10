@@ -8,8 +8,8 @@ html {
 body {
     font-family: futura, arial, verdana;
     /*background-color: #576366;*/
-    background-color: black;
-    background-image: url("https://i.postimg.cc/T25Mr2CB/canvas.png");
+  
+   
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -98,7 +98,7 @@ body {
 #msform .action-button {
     width: 200px;
     height: 50px;
-    background: #13426A;
+    background: #0A0A2A;
     font-weight: bold;
     color: white;
     border: 0 none;
