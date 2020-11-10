@@ -62,30 +62,30 @@ body {
 
 /*inputs*/
 #msform input, #msform textarea {
-    padding: 20px;
-    border: 2px solid #ccc;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    width: 100%;
-    box-sizing: border-box;
-    font-family: futura;
-    color: #2C3E50;
-    font-size: 15px;
-    font-weight: bold;
+  padding: 90px;
+  border: 2px solid #ccc;
+  border-radius: 30px;
+  margin-bottom: 20px;
+  width: 100%;
+  
+  font-family: futura;
+  color: #2C3E50;
+  font-size: 15px;
+  font-weight: bold;      
+  
 }
 
 #msform select, #msform option {
-    border: 0px solid #ccc;
-    border-radius: 5px;
-    margin-bottom: 30px;
-    width: 100%;
-    margin: 2px 17px;
-    padding: 5px 15px;
-    font-family: futura;
-    color: #2C3E50;
-    font-size: 15px;
-    font-weight: bold;
-
+  border: 0px solid #ccc;
+  border-radius: 0px;
+  margin-bottom: 20px;
+  width: 100%;
+  margin: 2px 17px;
+  padding: 5px 15px;
+  font-family: futura;
+  color: #2C3E50;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 /* Choice select */
